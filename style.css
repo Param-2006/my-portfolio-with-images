@@ -1,0 +1,26 @@
+h1{
+    color:aqua;
+}
+.header {
+    border:solid;
+    border-width: 10px;
+    background-color: beige;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    font-style: inherit;
+    
+}
+
+h3{
+    background-color:#789045;
+    font-family: 'Times New Roman';
+    font-stretch: expanded;
+    color: #002299;
+    border:solid;
+    border-width: 2px;
+    border-color: #700000;
+    
+    
+    
+}
